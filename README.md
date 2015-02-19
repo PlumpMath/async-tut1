@@ -7,7 +7,8 @@ covering [core.async](https://github.com/clojure/core.async).
 The only difference is that I configured it to work with
 [figwheel](https://github.com/bhauman/lein-figwheel).
 
-If you'd like to roll on the figwheel, clone this and ```lein figwheel```.
+If you'd like to roll on the figwheel, clone this and ```lein figwheel```, and
+then open up http://localhost:3449 .
 
 ## License
 
