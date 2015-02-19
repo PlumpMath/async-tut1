@@ -37,4 +37,6 @@
                 :optimizations :advanced
                 :pretty-print false}}]}
 
-  :figwheel {:http-server-root "public"})
+  :figwheel {:http-server-root "public"
+             :server-port 3449 ; default
+             })
